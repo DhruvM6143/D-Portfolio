@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Online Book Store",
+        "imageSrc": "projects/Project.jpeg",
+        "description": "This is a simple Book Store Project built using the MOngoDb, Express.js, React and Node.js. This project demonstrates basic CRUD operations on both the frontend and backend",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://book-store-dhruv.netlify.app",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "projects/Project.jpeg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "Sass"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "projects/Project.jpeg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
